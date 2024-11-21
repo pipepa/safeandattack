@@ -1,5 +1,4 @@
-"""
-Django settings for safeandattack project.
+
 
 
 from pathlib import Path
